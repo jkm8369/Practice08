@@ -15,6 +15,8 @@ public class PointApp {
 		System.out.println(p4.equals(p1));  // p1 과 p4는 같다
 		
 		
+		
+		
 	}
 
 }
